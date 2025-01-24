@@ -4,10 +4,10 @@ This project uses Natural Language Processing (NLP) to analyze a dataset of soci
 <h3>Features</h3>
 <li>Text Preprocessing: Clean and normalize text data.</li>
 
-Named Entity Recognition (NER): Identify victims using spaCy's NER model.
+<li>Named Entity Recognition (NER): Identify victims using spaCy's NER model.</li>
 
-Crime Classification: Classify the type of cyber crime based on keywords.
+<li>Crime Classification: Classify the type of cyber crime based on keywords.</li>
 
-Summarization: Generate a summary of each post using the Hugging Face BART model.
+<li>Summarization: Generate a summary of each post using the Hugging Face BART model.</li>
 
-Visualization: Display the distribution of crime types, a word cloud of tweets, and a bar chart of the top mentioned victims.
+<li>Visualization: Display the distribution of crime types, a word cloud of tweets, and a bar chart of the top mentioned victims.</li>
